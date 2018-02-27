@@ -11,7 +11,7 @@ SPWeather loads the coming week's weather data from api.darksky.net and displays
 
 [SBJson 5](https://github.com/stig/json-framework) is parsing library which was used to parse the JSON response from api.reddit into Obj-C objects.
 
-[LocationPicker](https://github.com/thiagoperes/IDMPhotoBrowser) is a swift library that allows the user to select a location
+[LocationPicker](https://github.com/JeromeTan1997/LocationPicker) is a swift library that allows the user to select a location
 
 
 
