@@ -1,0 +1,6 @@
+framework module Pods_SPRedditTests {
+  umbrella header "Pods-SPRedditTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
